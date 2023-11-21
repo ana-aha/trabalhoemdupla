@@ -28,7 +28,7 @@ return (
         type="number"
         value={nota1}
         onChange={(e) => setNota1(e.target.value)}
-        placeholder="Digite a primeira nota: "
+        placeholder="Digite a primeira nota: ai mano"
         />
         <input
         type="number"
