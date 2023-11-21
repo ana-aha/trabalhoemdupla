@@ -1,0 +1,27 @@
+.quadro{
+    width: 3000px;
+    height: 100px;
+ 
+    padding: 20px;
+ 
+    border: 1px solid #eeb0b0;
+    border-radius: 8px;
+ 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+ 
+    margin: 20px;
+ 
+    background-color: #eeb0b0;
+    overflow: hidden;
+    transition: trasnform 0.2s;
+
+    text-align: center;
+}
+ 
+.titulo{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.texto{
+    text-align: center;
+}
